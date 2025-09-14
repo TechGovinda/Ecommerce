@@ -1,6 +1,20 @@
 # 🛒 E-Commerce Website  
 
-An E-commerce web application built by following the **Bfive Tech YouTube tutorial series**, using **Django (backend)** and **Tailwind CSS with Flowbite (frontend)**.  
+An E-commerce web application built  using **Django (backend)** and **Tailwind CSS with Flowbite (frontend)**.
+
+This project is a fully functional E-commerce web application built using Django for the backend and Tailwind CSS with Flowbite for the frontend. It is designed to simulate a real online shopping experience where users can browse products, add them to the cart, and complete purchases.
+
+Key highlights of this project:
+
+Implements user authentication, allowing users to register, log in, and manage their accounts.
+
+Displays products in a responsive and user-friendly interface using Tailwind CSS and Flowbite components.
+
+Supports shopping cart and checkout functionality, enabling users to place orders easily.
+
+Includes admin management via Django’s admin panel for product and order management.
+
+Designed to be a learning project for those exploring Django, Tailwind CSS, and modern web development practices.
 
 ---
 
